@@ -14,14 +14,14 @@
 
 #### :bulb: Languages and tools
 
-[![HTML](https://img.shields.io/twitter/url?label=HTML&logo=HTML&style=social&url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)](https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)
-[![CSS](https://img.shields.io/twitter/url?label=CSS&logo=CSS&style=social&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2F)](https%3A%2F%2Fwww.w3schools.com%2Fcss%2F)
-[![SASS](https://img.shields.io/twitter/url?label=SASS&logo=SASS&style=social&url=https%3A%2F%2Fsass-lang.com%2F)](https%3A%2F%2Fsass-lang.com%2F)
-[![BootStrap](https://img.shields.io/twitter/url?label=Bootstrap&logo=Bootstrap&style=social&url=https%3A%2F%2Fgetbootstrap.com%2F)](https%3A%2F%2Fgetbootstrap.com%2F)
-[![JSON](https://img.shields.io/twitter/url?label=JSON&logo=JSON&style=social&url=https%3A%2F%2Fwww.json.org%2Fjson-pt.html)](https%3A%2F%2Fwww.json.org%2Fjson-pt.html)
+[![HTML](https://img.shields.io/twitter/url?label=HTML&logo=HTML&style=social&url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2F)](https://www.w3schools.com/html/default.asp)
+[![CSS](https://img.shields.io/twitter/url?label=CSS&logo=CSS&style=social&url=https%3A%2F%2Fwww.w3schools.com%2Fcss%2F)](https://www.w3schools.com/css/)
+[![SASS](https://img.shields.io/twitter/url?label=SASS&logo=SASS&style=social&url=https%3A%2F%2Fsass-lang.com%2F)](https://sass-lang.com/)
+[![BootStrap](https://img.shields.io/twitter/url?label=Bootstrap&logo=Bootstrap&style=social&url=https%3A%2F%2Fgetbootstrap.com%2F)](https://getbootstrap.com/)
+[![JSON](https://img.shields.io/twitter/url?label=JSON&logo=JSON&style=social&url=https%3A%2F%2Fwww.json.org%2Fjson-pt.html)](https://www.json.org/json-en.html)
 
 #### :rocket: Improving
 
-[![ReactJS](https://img.shields.io/twitter/url?label=ReactJS&logo=React&style=social&url=https%3A%2F%2Fpt-br.reactjs.org%2F)](https%3A%2F%2Fpt-br.reactjs.org%2F)
-[![NodeJS](https://img.shields.io/twitter/url?label=NodeJS&logo=NodeJS&style=social&url=https%3A%2F%2Fnodejs.org%2Fen%2F)](https%3A%2F%2Fnodejs.org%2Fen%2F)
-[![MySQL](https://img.shields.io/twitter/url?label=MySQL&logo=Mysql&style=social&url=https%3A%2F%2Fwww.mysql.com%2F)](https%3A%2F%2Fwww.mysql.com%2F)
+[![ReactJS](https://img.shields.io/twitter/url?label=ReactJS&logo=React&style=social&url=https%3A%2F%2Fpt-br.reactjs.org%2F)](https://pt-br.reactjs.org/)
+[![NodeJS](https://img.shields.io/twitter/url?label=NodeJS&logo=NodeJS&style=social&url=https%3A%2F%2Fnodejs.org%2Fen%2F)](https://nodejs.org/en/)
+[![MySQL](https://img.shields.io/twitter/url?label=MySQL&logo=Mysql&style=social&url=https%3A%2F%2Fwww.mysql.com%2F)](https://www.mysql.com/)
