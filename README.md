@@ -5,12 +5,12 @@
 [![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&style=social&url=https://t.me/ReneSilva33)](https://t.me/ReneSilva33)
 
 
-- :man: I'm a Junior Front-End Developer based in São Paulo, Brazil.
+- :man: Java developer based in São Paulo, Brazil.
 - 🔭 I’m looking for a new opportunities
-- 🌱 I’m currently learning ReactJs, NodeJs and MySQL
+- 🌱 I’m currently learning Java, Python and MySQL
 - 💬 Ask me about JavaScript and CSS
 - 📫 How to reach me: renivaldo.lopes33@gmail.com
-- ⚡ Fun fact: I love memes and talk about insurance
+- ⚡ Fun fact: (Sometimes) I use println()/console.log as debugger 
 
 #### :bulb: Languages and tools
 
